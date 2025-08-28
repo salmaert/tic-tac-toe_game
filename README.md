@@ -1,7 +1,11 @@
 # 🎮 Tic Tac Toe Game
 
-A simple **Tic Tac Toe (Morpion)** game built using Python. This is a basic two-player game played in the terminal. 
-It's a great exercise to practice logic, conditionals, and loops.
+
+A simple two-player Tic Tac Toe (Morpion) game built in Python.
+
+Players take turns choosing cells and symbols. The game detects wins and draws, and allows restarting or quitting.
+
+Built to practice Object-Oriented Programming (OOP) with classes: Player, Board, Menu, and Game.
 
 ## 📌 Features
 
